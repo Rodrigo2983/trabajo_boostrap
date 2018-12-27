@@ -1,3 +1,7 @@
 .bg-blackgray{
-  background-color: rgb(93, 103, 120);
+  background-color: rgb(222, 215, 231);
+}
+
+.margen{
+  margin:50px 0;
 }
